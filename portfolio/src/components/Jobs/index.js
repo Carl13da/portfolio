@@ -19,7 +19,7 @@ export default class Jobs extends Component {
                     <div className="overlay">
                       <div className="portfolio-item-meta">
                         <h5>Pine Bank</h5>
-                        <p></p>
+                        <p>Pine Bank</p>
                       </div>
                     </div>
                 </div>
